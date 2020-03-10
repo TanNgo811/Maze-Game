@@ -1,0 +1,11 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: blue;
+}
+
+.mazeCanvas{
+    border: 1px solid black;
+}
